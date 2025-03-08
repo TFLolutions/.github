@@ -1,0 +1,2 @@
+# .github
+Proyects rules
